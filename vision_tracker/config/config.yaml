@@ -1,0 +1,35 @@
+# 主配置文件
+camera:
+  device_id: 0
+  width: 640
+  height: 480
+  fps: 30
+  focal_length_px: 600.0  # 由标定脚本获取
+
+detector:
+  model_path: "models/target.onnx"
+  conf_threshold: 0.45
+  nms_threshold: 0.40
+  input_size: 640
+
+tracker:
+  max_lost_frames: 15
+  search_radius: 50.0
+
+pid:
+  yaw:
+    kp: 1.8
+    ki: 0.1
+    kd: 0.3
+    integral_limit: 5.0
+    output_limit: 25.0
+  pitch:
+    kp: 1.5
+    ki: 0.08
+    kd: 0.25
+    integral_limit: 5.0
+    output_limit: 20.0
+
+serial:
+  port: "/dev/ttyUSB0"
+  baudrate: 115200

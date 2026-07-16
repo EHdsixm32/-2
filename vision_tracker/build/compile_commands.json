@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/core/detector.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/core/detector.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/core/detector.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/core/detector.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/core/kalman_filter.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/core/kalman_filter.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/core/kalman_filter.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/core/kalman_filter.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/core/pid_controller.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/core/pid_controller.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/core/pid_controller.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/core/pid_controller.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/core/tracker.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/core/tracker.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/core/tracker.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/core/tracker.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/hardware/camera.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/hardware/camera.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/hardware/camera.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/hardware/camera.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/hardware/serial_comm.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/hardware/serial_comm.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/hardware/serial_comm.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/hardware/serial_comm.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/main.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/main.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/main.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/utils/config_manager.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/utils/config_manager.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/utils/config_manager.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/utils/config_manager.cpp.o"
+},
+{
+  "directory": "/home/ehdsixm/work2/vision_tracker/build",
+  "command": "/usr/bin/g++ -DFMT_SHARED -I/home/ehdsixm/work2/vision_tracker/include -I/usr/include/eigen3 -isystem /usr/include/opencv4 -g -std=gnu++17 -O3 -march=native -o CMakeFiles/vision_tracker.dir/src/utils/logger.cpp.o -c /home/ehdsixm/work2/vision_tracker/src/utils/logger.cpp",
+  "file": "/home/ehdsixm/work2/vision_tracker/src/utils/logger.cpp",
+  "output": "CMakeFiles/vision_tracker.dir/src/utils/logger.cpp.o"
+}
+]
