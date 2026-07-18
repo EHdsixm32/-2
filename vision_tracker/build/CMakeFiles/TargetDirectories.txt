@@ -1,3 +1,0 @@
-/home/ehdsixm/work2/vision_tracker/build/CMakeFiles/vision_tracker.dir
-/home/ehdsixm/work2/vision_tracker/build/CMakeFiles/edit_cache.dir
-/home/ehdsixm/work2/vision_tracker/build/CMakeFiles/rebuild_cache.dir
