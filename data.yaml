@@ -1,0 +1,5 @@
+train: /home/ehdsixm/work2/vision_tracker/dataset/images/train
+val: /home/ehdsixm/work2/vision_tracker/dataset/images/val
+
+nc: 1
+names: ['target']
